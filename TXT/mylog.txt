@@ -7,3 +7,8 @@ ZCZC W00 10 L40 Create TXT in my repository
 ZCZC W00 20 L03 Fix my Repository GitHub
 ZCZC W00 55 L31 Install UTM, include Debian
 ZCZC W00 60 L09 Do my assignments, still not finished
+ZCZC W01 150 L02 CLASSROOM/ZOOM meetings
+ZCZC W01 75 L32 Search YouTube for my virtual machine problem
+ZCZC W01 35 L61 Instal Virtual Box, because UTM doesn't work in my laptop
+ZCZC W01 20 L08 Chat with kating to ask for help
+
