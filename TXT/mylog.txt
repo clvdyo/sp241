@@ -18,3 +18,7 @@ ZCZC W02 75 L10 Finish Assignment #00
 ZCZC W02 20 L08 Chat with kating to ask for help again
 ZCZC W02 75 L11 Finish Assignment #01 
 ZCZC W02 10 L41 Update mylog.txt
+ZCZC W03 150 L02 CLASSROOM/ZOOM meetings
+ZCZC W03 70 L13 Assignment #03
+ZCZC W03 150 L32 YouTube: watching SP related topics, etc.
+ZCZC W03 20 L40 TXT/ related in general.
