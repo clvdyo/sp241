@@ -22,3 +22,8 @@ ZCZC W03 150 L02 CLASSROOM/ZOOM meetings
 ZCZC W03 70 L13 Assignment #03
 ZCZC W03 150 L32 YouTube: watching SP related topics, etc.
 ZCZC W03 20 L40 TXT/ related in general.
+ZCZC W04 20 L00 General, etc.
+ZCZC W04 150 L02 CLASSROOM/ZOOM meetings
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 100 L64 Helping a friend (OS related problem)
+ZCZC W04 20 L40 TXT/ related in general.
